@@ -99,5 +99,5 @@ out negative, but you'll be surprised at how smart the "game engine" will feel.
 
 ## Submission Format
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main`
+- [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main`
       (student's Repo). **Please don't merge your own pull request**
